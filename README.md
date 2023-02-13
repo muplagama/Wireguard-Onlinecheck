@@ -59,6 +59,7 @@ case "$1" in
 esac
 exit
 
+```
 
 chmod +x /etc/init.d/killswitch
 
