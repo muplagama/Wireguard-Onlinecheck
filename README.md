@@ -1,3 +1,7 @@
+# under construction
+# dont use before ready
+
+
 # Wireguard-Onlinecheck
 WG Onlinecheck
 
